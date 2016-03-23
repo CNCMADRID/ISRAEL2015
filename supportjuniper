@@ -2684,3 +2684,6 @@ VR1.inet.0: 6 destinations, 6 routes (6 active, 0 holddown, 0 hidden)
               Direct:      4 routes,      4 active
                Local:      1 routes,      1 active
                 OSPF:      1 routes,      1 active
+
+NON VALID CONFIG
+AGAIN
